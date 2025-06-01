@@ -25,7 +25,7 @@
 ## 📂 Структура проекта
 
 ```
-predictive_maintenance_project/
+KAI.PrediMaint/
 ├── app.py                # Streamlit-приложение
 ├── analysis_and_model.py # Анализ данных и модели
 ├── presentation.py       # Презентация проекта
@@ -40,7 +40,7 @@ predictive_maintenance_project/
 
 ```bash
 git clone https://github.com/RatmirTech/KAI.PrediMaint
-cd predictive_maintenance_project
+cd KAI.PrediMaint
 pip install -r requirements.txt
 streamlit run app.py
 ```
